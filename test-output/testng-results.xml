@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46108" started-at="2018-11-22T07:50:11Z" finished-at="2018-11-22T07:50:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46108" started-at="2018-11-22T07:50:11Z" finished-at="2018-11-22T07:50:57Z">
+      <class name="com.qa.test.iOS_AI">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.iOS_AI@146ba0ac]" name="setUp" is-config="true" duration-ms="15848" started-at="2018-11-22T07:50:11Z" finished-at="2018-11-22T07:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFindElementUsingAI()[pri:0, instance:com.qa.test.iOS_AI@146ba0ac]" name="testFindElementUsingAI" duration-ms="29910" started-at="2018-11-22T07:50:26Z" finished-at="2018-11-22T07:50:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindElementUsingAI -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.iOS_AI@146ba0ac]" name="tearDown" is-config="true" duration-ms="295" started-at="2018-11-22T07:50:56Z" finished-at="2018-11-22T07:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.iOS_AI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
